@@ -2,3 +2,5 @@ pembelajaran
 -belajar menggunakan git hub
 -belajar membuat website
 -belajar coding
+-percobaan mengedit
+-mencoba menyimpan perubahan
